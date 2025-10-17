@@ -1,9 +1,9 @@
-<div align="center">
+er<div align="center">
   
 # 💫 Mohammed Natheem L
 ### 🚀 Full Stack Developer | Problem Solver | Tech Enthusiast
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+from+India;MERN+Stack+Specialist;Angular+%26+React+Expert;Building+Scalable+Web+Applications;Always+Learning+New+Technologies" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+from+India;MERN+Stack+Developer;Angular+%26+React+Developer;Building+Scalable+Web+Applications;Always+Learning+New+Technologies" alt="Typing SVG" />
 
 [![Profile Views](https://komarev.com/ghpvc/?username=mohammednatheeml&color=blueviolet&style=for-the-badge)](https://github.com/mohammednatheeml)
 [![GitHub followers](https://img.shields.io/github/followers/mohammednatheeml?style=for-the-badge&color=blue&labelColor=1c1c1c)](https://github.com/mohammednatheeml)
